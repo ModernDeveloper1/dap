@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x04D4c9B50B5268FeB12F4057E4Cc8DBB2b0a3dB7",
+  "SCAN_LINK": "https://polygonscan.com/address/0x04D4c9B50B5268FeB12F4057E4Cc8DBB2b0a3dB7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "NFT",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 145000,
+  "freetokens": 1,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
